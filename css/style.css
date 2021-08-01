@@ -38,17 +38,15 @@
   background-clip: text;
 }
 .aditi-logo {
-  height: 10px;
-  width: 10px;
+  /* border: 1px solid red; */
+  width: 35%;
+  height: 50px;
 }
 
 /* end navigation */
 
 /* Banner Area */
 
-/* .site-main .site-banner {
-  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F30%2F01%2F05%2Fmilky-way-2695569__480.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fspace%2F&tbnid=9dqoFtmdmcEckM&vet=12ahUKEwj9sNrF04DyAhVAgUsFHYErBLEQMygHegUIARDbAQ..i&docid=c1Tjo1JWxhEFsM&w=853&h=480&q=space%20images&ved=2ahUKEwj9sNrF04DyAhVAgUsFHYErBLEQMygHegUIARDbAQ");
-} */
 .particles-Js {
   /* border: 2px solid blue; */
   background-image: url("../img/banner/backgroundimage.jpg");
